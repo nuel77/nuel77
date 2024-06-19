@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
-<h3 align="center">Web3 enthusiast 🛡️ at Polkadex. Passionate Frontend Engineer 💻, dabbling in substrate sorcery 🔮. On a quest to create a decentralized future, step by step 👣</h3>
+<h3 align="center">Web3 enthusiast 🛡️. Passionate Frontend Engineer 💻, dabbling in substrate sorcery 🔮. On a quest to create a decentralized future, step by step 👣</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuel77&label=Profile%20views&color=0e75b6&style=flat" alt="nuel77" /> </p>
-
-- 🔭 I’m currently working at **Polkadex**
-
-- 🌱 I’m currently learning **Rust and Substrate**
 
 - 📫 How to reach me **emmanuel.thomas237@gmail.com**
 
